@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nuriapc/.dotnet/store/|arch|/|tfm|",
+      "/Users/nuriapc/.nuget/packages"
+    ]
+  }
+}
