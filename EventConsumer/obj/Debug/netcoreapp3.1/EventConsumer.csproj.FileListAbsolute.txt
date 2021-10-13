@@ -1,0 +1,13 @@
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.csproj.AssemblyReference.cache
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.AssemblyInfoInputs.cache
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.AssemblyInfo.cs
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.csproj.CoreCompileInputs.cache
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/bin/Debug/netcoreapp3.1/EventConsumer.deps.json
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/bin/Debug/netcoreapp3.1/EventConsumer.runtimeconfig.json
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/bin/Debug/netcoreapp3.1/EventConsumer.runtimeconfig.dev.json
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/bin/Debug/netcoreapp3.1/EventConsumer.dll
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/bin/Debug/netcoreapp3.1/EventConsumer.pdb
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.dll
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.pdb
+/Users/nuriapc/Desktop/BLC/Fall 2021/COMS442/EventConsumer/obj/Debug/netcoreapp3.1/EventConsumer.genruntimeconfig.cache
